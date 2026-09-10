@@ -6,4 +6,4 @@ public class Kata
   {
      return n >= 0 && Math.Sqrt(n) % 1 == 0;
   }
-}q
+}
